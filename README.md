@@ -1,6 +1,7 @@
 PhoneState is a simple utility class for enabling and disabling the wireless communications radios in your Windows Mobile device.
 
 It provides the following functionality:
+
         1. setWiFiState
         2. setBluetoothState
         3. setPhoneState
