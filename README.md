@@ -10,6 +10,7 @@ It provides the following functionality:
         6. getPhoneState
 
 To use inside a cs file:
+
         [DllImport("PhoneState.dll")]
         private static extern void setPhoneState(int state);
         [DllImport("PhoneState.dll")]
